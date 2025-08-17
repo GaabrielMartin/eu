@@ -1,36 +1,28 @@
-# 👨‍💻 Olá, eu sou [Seu Nome]!
+# 👨‍💻 Olá, eu sou Gabriel Silva Martins!
 
-Sou **Programador Backend** com foco em **TypeScript**.  
-Tenho **19 anos**, moro na **Bahia - Brasil** 🌴 e sou apaixonado por criar soluções web escaláveis e aprender novas tecnologias.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-- **Linguagens:** TypeScript, JavaScript  
-- **Backend:** Node.js, Express  
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Outros:** Git, Docker, REST APIs  
+Sou **Desenvolvedor Backend** especializado em **TypeScript**.  
+Tenho **19 anos**, moro na **Bahia - Brasil** 🌴 e gosto de transformar ideias em projetos reais.  
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Tecnologias que uso
 
-- [Projeto 1](#) → Descrição rápida do projeto  
-- [Projeto 2](#) → Descrição rápida do projeto  
-- [Projeto 3](#) → Descrição rápida do projeto  
-
----
-
-## 📊 GitHub Stats
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🌎 Onde me encontrar
+## 📊 Estatísticas no GitHub
 
-- 💼 [LinkedIn](#)  
-- 📧 **seuemail@exemplo.com**  
-- 🌐 [Portfólio Pessoal](#)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Contato
+
+🎮 **Discord:** `gabrielmartins03402`
